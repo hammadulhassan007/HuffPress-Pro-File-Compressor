@@ -1,0 +1,14 @@
+# 🚀 HuffPress Pro - Ultimate Compression Engine
+
+HuffPress Pro is a high-performance file compression and decompression software built in **Java Swing**. It leverages the core concepts of **Data Structures & Algorithms (DSA)** to shrink file weights efficiently.
+
+## 🧠 Core Architecture & DSA Concepts
+* **Greedy Approach (Huffman Coding):** Evaluates character token weights dynamically to synthesize optimal prefix-free variable-length binary trees.
+* **Min-Heap (Priority Queue):** Drives the binary tree consolidation pipeline with an optimal runtime complexity of $O(N \log N)$.
+* **Frequency Hashing (HashMap):** Tracks character payloads dynamically.
+* **Bit Manipulation Logic:** Tight-packs string sequences of `0`s and `1`s directly into raw machine bytes.
+
+## 🛠️ Features
+* Custom Premium **Dark Theme Terminal GUI**
+* Real-time **Animated JProgressBar** tracking operation states
+* **Live Analytics Dashboard** displaying clock latencies and space deficit reduction metrics
