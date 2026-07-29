@@ -6,7 +6,7 @@ import java.io.*;
 import java.nio.file.Files;
 import java.util.*;
 
-class HuffmanNode {
+class HuffmanNode{
     byte data;
     int freq;
     HuffmanNode left, right;
